@@ -9,5 +9,5 @@ function submitApplication() {
 }
 
 function navigateToJobs() {
-    window.location.href = 'job_openings.html';
+    window.location.href = 'Job_openings.html';
 }
